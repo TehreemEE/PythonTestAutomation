@@ -1,0 +1,46 @@
+1643502434044	geckodriver	INFO	Listening on 127.0.0.1:60765
+1643502437173	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60766" "-no-remote" "-profile" "C:\\Users\\AAI\\AppData\\Local\\Temp\\rust_mozprofile17vPCD"
+1643502438222	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AAI\\AppData\\Local\\Temp\\rust_mozprofile17vPCD\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60766/devtools/browser/a325b584-77eb-48f0-ab5c-85297512e832
+1643502443245	Marionette	INFO	Listening on port 60774
+1643502443570	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1643502453550	Marionette	INFO	Stopped listening on port 60774
+1643503425662	geckodriver	INFO	Listening on 127.0.0.1:62914
+1643503428797	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62915" "-no-remote" "-profile" "C:\\Users\\AAI\\AppData\\Local\\Temp\\rust_mozprofileNhUj0u"
+1643503429779	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AAI\\AppData\\Local\\Temp\\rust_mozprofileNhUj0u\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62915/devtools/browser/4c00333d-05a6-46b2-a2e4-7008af50bc04
+1643503434621	Marionette	INFO	Listening on port 62922
+1643503434678	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1643503447468	Marionette	INFO	Stopped listening on port 62922
+1643503777106	geckodriver	INFO	Listening on 127.0.0.1:63887
+1643503780210	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63888" "-no-remote" "-profile" "C:\\Users\\AAI\\AppData\\Local\\Temp\\rust_mozprofilehAaITp"
+1643503781575	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AAI\\AppData\\Local\\Temp\\rust_mozprofilehAaITp\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63888/devtools/browser/b6a71f2d-a6ed-4885-bcde-045297972b6a
+1643503786113	Marionette	INFO	Listening on port 63906
+1643503786600	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1643503799031	Marionette	INFO	Stopped listening on port 63906
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643657245480	geckodriver	INFO	Listening on 127.0.0.1:59123
+1643657248564	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59124" "-no-remote" "-profile" "C:\\Users\\AAI\\AppData\\Local\\Temp\\rust_mozprofileiSM28E"
+1643657249430	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AAI\\AppData\\Local\\Temp\\rust_mozprofileiSM28E\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59124/devtools/browser/483ca52f-9065-416d-9551-fd20a01e575e
+1643657254758	Marionette	INFO	Listening on port 59136
+1643657254955	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1643657270993	Marionette	INFO	Stopped listening on port 59136
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643658716320	geckodriver	INFO	Listening on 127.0.0.1:62153
+1643658719408	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62154" "-no-remote" "-profile" "C:\\Users\\AAI\\AppData\\Local\\Temp\\rust_mozprofiletpE5z4"
+1643658720115	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AAI\\AppData\\Local\\Temp\\rust_mozprofiletpE5z4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62154/devtools/browser/38837b00-be4f-4beb-af00-f11e9b05763c
+1643658723993	Marionette	INFO	Listening on port 62164
+1643658724236	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1643658736674	Marionette	INFO	Stopped listening on port 62164
