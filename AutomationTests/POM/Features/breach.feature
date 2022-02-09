@@ -16,4 +16,3 @@ Feature: Equitime Raise Breach
     Then the same Contract View is displayed
     And the created breach is present
     Then close the browser
-
