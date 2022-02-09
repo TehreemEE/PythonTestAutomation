@@ -1,6 +1,6 @@
-# PythonTestAutomation
 # Instructions for setting the test environments
-# Unit Test framework is used with POM and Behave
+
+Unit Test framework is used with POM and Behave
 
 Once the tests are completed, reports will generated using the following command
 behave -f allure_behave.formatter:AllureFormatter -o AutomationTestReports/ <Absoulte path to where feature files are available>
