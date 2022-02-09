@@ -1,7 +1,7 @@
 # lunatech-qa-equittime-assessment-template
 
 Please use this readme as your project's readme. You can find instructions for
-the assignment in the [`INSTRUCTIONS.md`](INSTRUCTIONS.md) file.
+the assignment in the (INSTRUCTIONS.md) file.
 
 Once the tests are completed, reports will generated using the following command <br>
 behave -f allure_behave.formatter:AllureFormatter -o AutomationTestReports/ <Absoulte path to where feature files are available> <br>
